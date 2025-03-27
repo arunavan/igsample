@@ -1,0 +1,25 @@
+Hardware Requirements
+---------------------
+Processor : Intel i5  2GHz or above 
+Operating System : Windows 10 or 11  32/64 bit 
+RAM : 8GB or above
+Hard disk : 1TB or  above 
+
+
+
+
+Software Requirements
+---------------------
+JDK 8/11/17/22
+SpringTools Suite IDE/Eclipse 
+Spring Boot CLI
+Maven 3.4 or above
+Tomcat 9
+MySQL8
+MongoDB
+Jenkins
+Docker
+NodeJS
+VisualStudioCode
+Goole Chrome Postman plugin
+
